@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: rgb(166, 166, 242);
+}
+h1{
+    text-align: center;
+    background:rgba(244, 241, 150, 0.702);
+    color: black;
+    font-size: 130px;
+}
+h2{
+    background: gray;
+}
+button{
+  font-size: 30px;
+  border-color: black;
+  border-radius: 10px;
+  background-color: rgb(165, 243, 174);
+}
+p{
+    font-size: 40px;
+ 
+}
